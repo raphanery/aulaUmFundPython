@@ -2,3 +2,4 @@
 
 print("Hello, World!")
 print("Estou aprendendo Python")
+print("Estou aprendendo a usar o Replit")
